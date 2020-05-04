@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Lets_Chat.Hubs;
+
 
 namespace Lets_Chat
 {
@@ -53,7 +53,7 @@ namespace Lets_Chat
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapRazorPages();
-                endpoints.MapHub<Chathub>("/chathub");
+                endpoints.MapHub<Chathub>("/chatHub");
             });
         }
     }
