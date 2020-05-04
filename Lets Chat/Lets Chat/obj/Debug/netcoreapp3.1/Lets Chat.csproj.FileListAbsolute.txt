@@ -1,0 +1,38 @@
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\bin\Debug\netcoreapp3.1\Lets Chat.exe
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\bin\Debug\netcoreapp3.1\Lets Chat.deps.json
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\bin\Debug\netcoreapp3.1\Lets Chat.runtimeconfig.json
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\bin\Debug\netcoreapp3.1\Lets Chat.runtimeconfig.dev.json
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\bin\Debug\netcoreapp3.1\Lets Chat.dll
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\bin\Debug\netcoreapp3.1\Lets Chat.pdb
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\bin\Debug\netcoreapp3.1\Lets Chat.Views.dll
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\bin\Debug\netcoreapp3.1\Lets Chat.Views.pdb
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\obj\Debug\netcoreapp3.1\Lets Chat.csprojAssemblyReference.cache
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\obj\Debug\netcoreapp3.1\Lets Chat.csproj.CoreCompileInputs.cache
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\obj\Debug\netcoreapp3.1\Lets Chat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\obj\Debug\netcoreapp3.1\Lets Chat.RazorAssemblyInfo.cache
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\obj\Debug\netcoreapp3.1\Lets Chat.RazorAssemblyInfo.cs
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\obj\Debug\netcoreapp3.1\Lets Chat.AssemblyInfoInputs.cache
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\obj\Debug\netcoreapp3.1\Lets Chat.AssemblyInfo.cs
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\obj\Debug\netcoreapp3.1\Lets Chat.TagHelpers.input.cache
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\obj\Debug\netcoreapp3.1\Lets Chat.TagHelpers.output.cache
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\obj\Debug\netcoreapp3.1\Lets Chat.RazorCoreGenerate.cache
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\obj\Debug\netcoreapp3.1\Lets Chat.RazorTargetAssemblyInfo.cache
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\obj\Debug\netcoreapp3.1\Lets Chat.RazorTargetAssemblyInfo.cs
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\obj\Debug\netcoreapp3.1\Lets Chat.Views.pdb
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\obj\Debug\netcoreapp3.1\staticwebassets\Lets Chat.StaticWebAssets.Manifest.cache
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\obj\Debug\netcoreapp3.1\staticwebassets\Lets Chat.StaticWebAssets.xml
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\obj\Debug\netcoreapp3.1\Lets Chat.dll
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\obj\Debug\netcoreapp3.1\Lets Chat.pdb
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\obj\Debug\netcoreapp3.1\Lets Chat.genruntimeconfig.cache
+C:\Users\praka\source\repos\Lets Chat\Lets Chat\obj\Debug\netcoreapp3.1\Lets Chat.csproj.CopyComplete
